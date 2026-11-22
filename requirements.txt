@@ -1,0 +1,10 @@
+streamlit>=1.50
+streamlit-webrtc>=0.47
+av
+numpy
+pandas>=2.1
+opencv-python-headless
+pillow
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
